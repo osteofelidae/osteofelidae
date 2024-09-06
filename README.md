@@ -10,6 +10,5 @@ Hello! I'm Albert. I do ML/AI and OS stuff - ask me about my projects!
 
 ## Interests
 * Programming, obviously :)
-* Acoustic guitar.
 * Running.
 * Video games - Warframe, Eve Online.
