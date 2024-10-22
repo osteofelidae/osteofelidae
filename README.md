@@ -11,4 +11,4 @@ Hello! I'm Albert. I do AI/ML and OS stuff - ask me about my projects!
 ## Interests
 * Programming, obviously :)
 * Running.
-* Video games - Warframe, Eve Online.
+* Video games - League of Legends, No Man's Sky
