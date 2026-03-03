@@ -8,4 +8,4 @@ CV, Systems programming, data analysis. Currently working with IM PHX (formerly 
 * Technologies & frameworks: PyTorch, TensorFlow, React, Bootstrap, Node.
 
 ## Interests
-Surviving my Master's.
+* Surviving my Master's.
