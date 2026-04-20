@@ -1,7 +1,7 @@
 # Albert Kim
 
 ## About Me
-CV, Systems programming, data analysis. Currently working with IM PHX (formerly SER).
+CV, Systems programming, data analysis.
 
 ## Skills
 * Languages: C/C++, Python, JavaScript, Java. (HTML & CSS don't count.)
